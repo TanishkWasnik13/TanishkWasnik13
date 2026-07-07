@@ -152,23 +152,12 @@ Currently, I'm building production-ready AI systems with React, Flask, Firebase,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanishkWasnik13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkWasnik13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=TanishkWasnik13&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8" alt="GitHub streak" />
+<img src="./assets/github-analytics.svg" alt="GitHub analytics summary for Tanishk Wasnik" width="100%" />
 
 <br />
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanishkWasnik13&bg_color=0F172A&color=E5E7EB&line=38BDF8&point=7C3AED&area=true&hide_border=true" alt="GitHub activity graph" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=TanishkWasnik13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
 
 </div>
 
@@ -178,11 +167,7 @@ Currently, I'm building production-ready AI systems with React, Flask, Firebase,
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanishkWasnik13/TanishkWasnik13/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanishkWasnik13/TanishkWasnik13/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/TanishkWasnik13/TanishkWasnik13/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="./assets/contribution-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 

@@ -1,0 +1,65 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub analytics summary</title>
+  <desc id="desc">A dark themed GitHub analytics card for Tanishk Wasnik showing engineering focus areas, stack strength, and contribution momentum.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="260" x2="1020" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="120" cy="56" r="170" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="1008" cy="296" r="210" fill="#7C3AED" fill-opacity="0.12"/>
+
+  <text x="54" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">GitHub Analytics</text>
+  <text x="54" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">Clean, resilient profile summary without broken external stat cards</text>
+
+  <g filter="url(#shadow)">
+    <rect x="54" y="128" width="222" height="120" rx="18" fill="#020617" fill-opacity="0.5" stroke="#334155"/>
+    <text x="78" y="166" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">AI Engineering</text>
+    <text x="78" y="196" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Deep Learning</text>
+    <text x="78" y="220" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Computer Vision</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="306" y="128" width="222" height="120" rx="18" fill="#020617" fill-opacity="0.5" stroke="#334155"/>
+    <text x="330" y="166" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Full Stack</text>
+    <text x="330" y="196" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">React + Node.js</text>
+    <text x="330" y="220" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Flask + Firebase</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="558" y="128" width="222" height="120" rx="18" fill="#020617" fill-opacity="0.5" stroke="#334155"/>
+    <text x="582" y="166" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Research</text>
+    <text x="582" y="196" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">IEEE Author</text>
+    <text x="582" y="220" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Medical AI</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="810" y="128" width="236" height="120" rx="18" fill="#020617" fill-opacity="0.5" stroke="#334155"/>
+    <text x="834" y="166" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Product Mindset</text>
+    <text x="834" y="196" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Real-world AI apps</text>
+    <text x="834" y="220" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Internship-ready work</text>
+  </g>
+
+  <g opacity="0.86">
+    <path d="M72 298C150 276 205 302 284 272C368 240 430 254 512 230C590 207 650 228 730 196C834 154 914 174 1028 118" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="72" cy="298" r="7" fill="#38BDF8"/>
+    <circle cx="284" cy="272" r="7" fill="#38BDF8"/>
+    <circle cx="512" cy="230" r="7" fill="#2563EB"/>
+    <circle cx="730" cy="196" r="7" fill="#2563EB"/>
+    <circle cx="1028" cy="118" r="7" fill="#7C3AED"/>
+  </g>
+
+  <text x="54" y="330" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Focus: AI Products • Research • Full Stack Systems • Open Source Growth</text>
+</svg>
