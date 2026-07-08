@@ -77,7 +77,7 @@ Currently, I'm building production-ready AI systems with React, Flask, Firebase,
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and ML" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
 
 </div>
 
