@@ -71,10 +71,10 @@ Currently, I'm building production-ready AI systems with React, Flask, Firebase,
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwind" alt="Frontend" />
 
 ### Backend and Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" alt="Backend and database" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" alt="Backend and database" />
 
 ### AI, ML and Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and ML" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" alt="AI and ML" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
