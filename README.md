@@ -195,13 +195,13 @@ This research strengthens my practical AI work by connecting model development w
 - Learning from strong engineers and contributing to serious teams
 - Making complex AI workflows easier for people to use
 
----
+---  
 
 ## Let's Connect
 
 <div align="center">
 
-<a href="mailto:tanishkwasnik13@gmail.com"><img src="https://img.shields.io/badge/Email-tanishkwasnik13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:tanishkwasnik13@gmail.com"><img src="https://img.shields.io/badge/Email-tanishkwasnik13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> 
 <a href="https://www.linkedin.com/in/tanishk-wasnik-9a207035b"><img src="https://img.shields.io/badge/LinkedIn-Tanishk%20Wasnik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/TanishkWasnik13"><img src="https://img.shields.io/badge/GitHub-TanishkWasnik13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
